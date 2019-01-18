@@ -448,7 +448,9 @@ msgstr "Keine Information über Aktualisierungen des Paketes verfügbar"
 msgid ""
 "\n"
 "Fedora Updates:"
-msgstr "Fedora Aktualisierungen:"
+msgstr ""
+"\n"
+"Fedora Aktualisierungen:"
 
 #: ../src/yumex/gui/widgets.py:661
 msgid "Release"
@@ -475,7 +477,9 @@ msgstr "Keine Informationen über die Änderungshistorie dieses Pakets verfügba
 msgid ""
 "\n"
 "Online Changelog:"
-msgstr "Online Änderungshistorie:"
+msgstr ""
+"\n"
+"Online Änderungshistorie:"
 
 #: ../src/yumex/gui/widgets.py:741
 msgid "No filelist information is available"
